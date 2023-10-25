@@ -1,0 +1,37 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background-color: aquamarine;
+    width: 15rem;
+    height: 20rem;
+    border: 1px;
+    border-radius: 20px;
+}
+.display{
+    border: 1px solid;
+
+}
+.button-wrapper{
+
+}
+
+.key{
+
+}
+.key operator{
+
+}
+.key number{
+
+}
